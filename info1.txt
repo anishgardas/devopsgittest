@@ -1,5 +1,5 @@
 """
-This template is written by @boldestfortune
+This template is written by @anishgardas
 
 What does this quickstart script aim to do?
 - Just started playing around with Quota Supervisor, so I'm still tweaking
